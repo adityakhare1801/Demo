@@ -6,5 +6,8 @@ public class Main {
     static void main() {
         Car car = new Car();
         car.show();
+
+        Vehicle vehicle = new Vehicle();
+        vehicle.show();
     }
 }
